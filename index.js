@@ -1,4 +1,4 @@
-console.log("hello");
+console.log("hi yeah");
 
 const array = [1, 2, 3];
 
